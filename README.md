@@ -89,25 +89,25 @@ This enables:
 - **UI**: Gradio  
 - **Environment Management**: python-dotenv  
 
-## ▶️ How to Run
+## How to Run
 
-### 1️⃣ Install dependencies
+### 1️. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-2️⃣ Build the vector database
+2️. Build the vector database
 ```bash
 python ingest.py
 ```
-3️⃣ Inspect semantic retrieval
+3️. Inspect semantic retrieval
 ```bash
 python query.py
 ```
-4️⃣ Visualize embeddings (optional)
+4️. Visualize embeddings (optional)
 ```bash
 python visualize.py
 ```
-5️⃣ Launch the RAG assistant
+5️. Launch the RAG assistant
 ```bash
 python app.py
 ```
