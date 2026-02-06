@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-openai
+chromadb
+sentence-transformers
+python-dotenv
+tiktoken
+numpy
+scikit-learn
+plotly
+gradio
